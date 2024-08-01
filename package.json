@@ -1,0 +1,15 @@
+{
+  "name": "evklid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": " https://dan4iiiiik.github.io/evklid",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
